@@ -1,0 +1,10 @@
+g:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csprojAssemblyReference.cache
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.exe.config
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.exe
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\bin\Debug\Test_1.pdb
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.Scherm_1.resources
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.Properties.Resources.resources
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csproj.GenerateResource.cache
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.csproj.CoreCompileInputs.cache
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.exe
+G:\YMFC-32_Flight_Monitor\YMFC-32_Flight_Monitor\Test_1\obj\Debug\Test_1.pdb
